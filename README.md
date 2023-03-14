@@ -10,8 +10,10 @@ Ahora con un enfoque hacia el **desarrollo web** y siempre interesado en como me
 | cd       | Movernos entre directorios                               | 
 | mkdir    | Crear un directorio                                      |
 | rm       | Borrar un archivo                                        |
-| clear    | Limpiar la terminal                                      |
+| clear    | Limpia la terminal                                       |
 
-## Estos alias uso 
-
-
+## Estos alias aprendi a usar
+| Comando              | Para que sirve                                                            | 
+|----------------------|---------------------------------------------------------------------------|
+| alias cl="clear"     | Limpia la terminal                                                        | 
+| alias rm="trash"     | No elimina permanentemente los archivos sino que los envía a la papelera  | 
