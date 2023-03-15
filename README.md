@@ -1,7 +1,9 @@
 # Hola soy **Juan Manuel Sanchez Garcia**
 ## **Front end developer** en proceso
-Soy tecnico en refrigeración ❄ en busqueda siempre de solucionar problemas de mis clientes de la manera mas efectiva y eficaz.
-Ahora con un enfoque hacia el **desarrollo web** y siempre interesado en como mejorar.
+
+Soy estudiante de **desarrollo web** siempre interesado en como mejorar.
+En este momento estoy aprendiendo para ser un desarrollador Full Stack, ademas soy tecnico en refrigeración ❄ en busqueda siempre de solucionar problemas de mis clientes de la manera mas efectiva y eficaz.
+
 
 ## Estos 5 comandos me parecen muy utiles en la terminal 
 | Comando  | Descripción                                              | 
